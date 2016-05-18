@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_c4a4a97caa81adcddd173f6fda26632c059f7503\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_7dcd6576f8cf2022753065e475a9f7144192f820\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_3b4e93d2cf9c5117636781617233a6ec6af9f7a1\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_ad8fa9448ab8d38aaac878c3a64b7bea4c3314bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Valerio\.gradle\caches\modules-2\files-2.1\net.simonvt.schematic\schematic-annotations\0.6.3\4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36\schematic-annotations-0.6.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\schematic-annotations-0.6.3_df9334fcd02c45053c99eec84761f5de7ad0dfca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Valerio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_1e2a96c38030d1d6d84812667be6922f01d0c834\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_997684f0726b91465daf50a7a3f6bb92a425baa9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Valerio\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.4.0_99e4d5aa326b9731aaefb192c68feb51cf139ddd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Valerio\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_46077d5a7b61474456b84174b714f0950ad500ff\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_d92d723ba902b3200c724fa1ebf5153ae7ce5d0d\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_e78deab07d65691dc984580a3fb9c0ac4b1121e7\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fb4e503bee271f48b349f6e95f9297deca9dd275">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_10877a8720a8f72f1c988f312892a8e614791448\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Valerio\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_56a7e4fc4c74d92aed3a3d9bf729ddc5aca19813\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_0dc2263e61e3f5fff3963d7b617649f56014475b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_aaab2d215f0d1aceda817c23fd16f6a5352ecc54\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\net.simonvt.schematic\schematic\0.6.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.simonvt.schematic-schematic-0.6.3_a2dd8e02dd97e97fa45315546f9358b74813bdbf\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.3.0_3c6b8a30092029837928f2d896072714c19a8a1e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Valerio\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_c1fbfa533f73de47ddc55f3c0c6bd03adafedcdb\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_6b264ccd3e11a1f805a3014323e17ff709edf950\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_f533400bbe7a84fb166d5596a3a7bca1afeb2743\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_691d7d0ce1aa9abbbf0c93fa926f497f3509f773\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b96912061f4acabafd05e0433b666277b21bc0a0">
+        <dex dex="D:\AndroidRepositories\GoldCoupon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b1a23ecfc5ea085a449a80933cc36293258f173a\classes.dex" />
+    </item>
+
+</items>

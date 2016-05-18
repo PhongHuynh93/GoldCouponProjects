@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "565534429013",
+    "project_id": "goldcoupon-3873f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565534429013:android:6b4cad319b8f5e93",
+        "android_client_info": {
+          "package_name": "com.degiorgi.valerio.goldcoupon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBroLfsyaRLsXUMgt2yt3MNi9O3q2oCgp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-77452674-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
